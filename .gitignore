@@ -1,0 +1,5 @@
+.venv/
+venv/
+TrainingImageLabel/Trainner.yml
+__pycache__/
+*.pyc
