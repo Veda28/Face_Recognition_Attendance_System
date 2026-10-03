@@ -32,7 +32,7 @@ py -3.13 -m venv .venv
 4. **Manual attendance:** Choose a subject, enter each student's enrollment and name, then click **Enter Data**. A camera is not needed.
 5. **View records:** Click **Check Registered Students**, sign in to open the admin dashboard, then select **All Attendance**, **Manual Attendance**, or **Automatic Attendance**.
 
-The admin credentials are currently hard-coded in `AMS_Run.py` (`pragya` / `pragya123`). Change them before sharing the application.
+The admin credentials are currently hard-coded in `AMS_Run.py`. Change them before sharing the application.
 
 ## Data files
 
